@@ -1,1 +1,1 @@
- {"flavors": {"github": {"stable": {"version": "v2.2.1", "version_code": 85, "apk": "http://tubedw.rf.gd/app/TubeDW.apk"}}, "fdroid": {"stable": {"version": "2.0.2", "version_code": 77, "apk": "http://tubedw.rf.gd/app/TubeDW.apk"}}}}
+ {"flavors": {"github": {"stable": {"version": "v2.1.1", "version_code": 78, "apk": "https://koeman099.github.io/json/update.apk"}}, "fdroid": {"stable": {"version": "2.1.1", "version_code": 78, "apk": "https://koeman099.github.io/json/update.apk"}}}}
