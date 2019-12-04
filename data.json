@@ -1,1 +1,1 @@
- {"flavors": {"github": {"stable": {"version": "v3.0.0", "version_code": 80, "apk": "https://koeman099.github.io/json/update.apk"}}, "fdroid": {"stable": {"version": "3.0.0", "version_code": 80, "apk": "https://koeman099.github.io/json/update.apk"}}}}
+ {"flavors": {"github": {"stable": {"version": "v4.1", "version_code": 91, "apk": "https://koeman099.github.io/json/update.apk"}}, "fdroid": {"stable": {"version": "3.0.0", "version_code": 80, "apk": "https://koeman099.github.io/json/update.apk"}}}}
