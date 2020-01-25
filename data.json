@@ -1,1 +1,1 @@
- {"flavors": {"github": {"stable": {"version": "v4.4.0", "version_code": 93, "apk": "https://koeman099.github.io/json/TubeDWupdate.apk"}}, "fdroid": {"stable": {"version": "v4.4.0", "version_code": 93, "apk": "https://koeman099.github.io/json/TubeDWupdate.apk"}}}}
+ {"flavors": {"github": {"stable": {"version": "v4.4.0", "version_code": 93, "apk": "https://github.com/koeman099/json/releases/download/4.4.0/TubeDWupdate.apk"}}, "fdroid": {"stable": {"version": "v4.4.0", "version_code": 93, "apk": "https://github.com/koeman099/json/releases/download/4.4.0/TubeDWupdate.apk"}}}}
