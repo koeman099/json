@@ -1,7 +1,1 @@
-{
-  "userId": 1,
-  "id": 1,
-  "banner_ad_id": "ca-app-pub-3940256099942544/6300978111",
-  "interstital_ad_id": "ca-app-pub-3940256099942544/1033173712",
-  "id_admob": "pub-0123456789012345"
-  }
+ {"flavors": {"github": {"stable": {"version": "v6.0.3", "version_code": 131, "apk": "https://github.com/koeman099/apk/releases/download/6.0.3/UpdateTubeDw.apk"}}, "fdroid": {"stable": {"version": "v6.0.3", "version_code": 131, "apk": "https://github.com/koeman099/apk/releases/download/6.0.3/UpdateTubeDw.apk"}}}}
