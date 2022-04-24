@@ -1,2 +1,1 @@
- {"flavors": {"github": {"stable": {"version": "v8.4.2", "version_code": 185, "apk": "https://github.com/koeman099/json/releases/download/8.4.2/TubeDW8.4.2.apk"}}, "fdroid": {"stable": {"version": "v8.4.2", "version_code": 185, "apk": "https://github.com/koeman099/json/releases/download/8.4.2/TubeDW8.4.2.apk"}}}}
-
+ {"flavors": {"github": {"stable": {"version": "v8.5.0", "version_code": 187, "apk": "https://github.com/koeman099/json/releases/download/8.5.0/tubedw-8.5.0.apk"}}, "fdroid": {"stable": {"version": "v8.5.0", "version_code": 187, "apk": "https://github.com/koeman099/json/releases/download/8.5.0/tubedw-8.5.0.apk"}}}}
